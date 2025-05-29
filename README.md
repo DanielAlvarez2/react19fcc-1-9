@@ -9,5 +9,5 @@ Vanilla JS:
 
 React:  
         root.render(
-            < h1>This is DECLARATIVE code</h1>
+            < h1>This is DECLARATIVE code< /h1>
         )
