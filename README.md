@@ -7,7 +7,7 @@ Vanilla JS:
         imperative.className = 'imperative'  
         document.querySelector('#root').appendChild(imperative)  
 
-React: 
+React:  
         root.render(
             <h1>This is DECLARATIVE code</h1>
         )
